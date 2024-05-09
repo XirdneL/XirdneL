@@ -10,7 +10,7 @@
 
 ## Hobbies 🕹️
 
-💻 Creating mini projects - like making a [calculator](https://github.com/XirdneL/calculator) or a [connect-4](https://github.com/XirdneL/connect-4) game!<br>
+💻 Creating mini projects to like the most recent [exercise booking telegram bot](https://github.com/XirdneL/exercise-booking-tg-bot/tree/master) or just stuff for fun like a [calculator](https://github.com/XirdneL/calculator) or a [connect-4](https://github.com/XirdneL/connect-4) game!<br>
 🎮 All sorts of games - board games, online games <img src="https://cdn.worldvectorlogo.com/logos/overwatch-2.svg" width="18" height="18"> <img src="https://iconape.com/wp-content/png_logo_vector/counter-strike-global-offensive-logo-2.png" width="40" height="18"><br>
 ⛹ Ball sports, exercise classes - spin, barrys, pilates, or whatever else my wife and friends drag me too 🏀⚽🏋️‍♂️🚴<br>
 🧐 Solving leetcode questions - I won't lie, sometimes I close the tab if I can't solve it in 10 minutes<br>
